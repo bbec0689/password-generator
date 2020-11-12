@@ -1,10 +1,8 @@
-# password-generator
-
-# What I DiD
+# What I Did
 
 * First I restructured the HTML to fit into a format where I could add checkboxes and a number slider
 
-* The I reformatted my CSS to match what I had changed in the index.
+* Then I reformatted my CSS to match what I had changed in the index.
 
 * After that I deleted the origing JS that was written and constructed my own.
 
